@@ -20,7 +20,7 @@ type transfer =
 }
 
 // Address to be used to payout to book publisher.
-let publisher_address : address = ("tz1QKFyxygM39QCz6VWBiqhRy2Knhg91k67t" : address)
+let publisher_address : address = ("tz1Rm3pAnn6Se4JHaTQ6af3S1bPnjLL5VZbU" : address)
 
 let main (publication_kind_index, publication_storage : nat * publication_storage) : return =
   // Check we current stock the requested publication
