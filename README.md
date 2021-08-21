@@ -1,5 +1,5 @@
 # Book Store front
-
+#### It should be noted this smart contract is not considered *Audited* and as such should not be used in a production enviroment.
 A Smart contract that allows the owner to sell NFT's of books they have published on the Tezos protocol providing;
 
  - They currently have the publication in stock to do so.
